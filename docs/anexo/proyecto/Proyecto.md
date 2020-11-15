@@ -10,7 +10,7 @@
 
 ### Colaboración Abierta
 * Necesito ayuda para elaborar este Manifiesto y su Anexo
-* Invito a todos a discutir nuevas ideas y adaptar temas ya escritos, en este foro o en las redes oficiales
+* Invito a todos a discutir nuevas ideas y adaptar temas ya escritos, en [este foro](https://github.com/vac333/vac333.github.io/issues) o en las redes oficiales
 * Agradecería aún más input directo en forma de Pull Requests
 
 ### Licencia
@@ -30,7 +30,7 @@
 
 ### Open Source
 * I need your help in writing this Manifesto and the Annex articles
-* Everyone is welcome to discuss new ideas and iterate articles, either in this forum or other official social networks
+* Everyone is welcome to discuss new ideas and iterate articles, either in [this forum](https://github.com/vac333/vac333.github.io/issues) or other official social networks
 * I would be more grateful of direct input via Pull Requests
 
 ### Licence
