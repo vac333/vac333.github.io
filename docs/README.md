@@ -1,4 +1,4 @@
-###### *Vacuna para erradicar el Covid-19 en 3 semanas 3 Meses 3 años*  
+###### *Vacuna para erradicar el Covid-19 en 3 semanas 3 meses 3 años*  
 ###### *Vaccine to erradicate Covid-19 in 3 weeks 3 months 3 years*
 
 
