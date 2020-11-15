@@ -1,15 +1,20 @@
-# VAC333
+###### *Vacuna para erradicar el Covid-19 en 3 semanas 3 Meses 3 años*  
+###### *Vaccine to erradicate Covid-19 in 3 weeks 3 months 3 years*
 
-###### [Español](#manifiesto) | [English](#manifesto) | [(v0.00.01)](https://github.com/vac333/vac333.github.io/commits/main/README.md)
 
-
----- ----
-
-## Manifiesto
-
+###### [Español](#manifiesto) | [English](#manifesto) | [(v0.00.002)](https://github.com/vac333/vac333.github.io/commits/main/docs/README.md)
 
 
 ---- ----
 
-## Manifesto
+# Manifiesto
+
+Señor Presidente,
+
+
+---- ----
+
+# Manifesto
+
+Mr. President,
 
