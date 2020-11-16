@@ -1,4 +1,8 @@
-#### [Anexo](../Anexo.md) > Proyecto
+# Proyecto
+
+#### [Anexo](../Anexo.md) > Proyecto  
+
+---- ----
 
 ## Acerca de este proyecto
 
@@ -33,7 +37,7 @@
 * Everyone is welcome to discuss new ideas and iterate articles, either in [this forum](https://github.com/vac333/vac333.github.io/issues) or other official social networks
 * I would be more grateful of direct input via Pull Requests
 
-### Licence
+### License
 * [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 * Allowed: Share and Adapt, as long as you Attribute and use the same open License.
 * Not Allowed: Commercial use.
